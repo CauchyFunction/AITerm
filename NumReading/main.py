@@ -36,17 +36,27 @@ def test(func):
 	correct = 0;
 	for i in range(num):
 		su = func(img[i*rows*cols : (i+1)*rows*cols]);
+		if (i+1)%250 == 0: print("{}/{}".format(correct,i+1));
 		if su == lbl[i]: correct+=1;
 	
 	return correct/num;
 
 if __name__ == '__main__':
-	cyc = 1;
+	cyc = 50;
 	if len(sys.argv)>=2:
 		try: cyc = int(sys.argv[1]);
 		except: pass;
 
+	# tflow
 	train(tflow.learn);
-	tflow.think(50);
+	tflow.think(cyc);
+	print("Training Complete");
 	acc = test(tflow.getnum);
+	print("Accuracy : {}%".format(acc*100));
+
+	# naive
+	train(naive.learn);
+	naive.think(cyc);
+	print("Training Complete");
+	acc = test(naive.getnum);
 	print("Accuracy : {}%".format(acc*100));
