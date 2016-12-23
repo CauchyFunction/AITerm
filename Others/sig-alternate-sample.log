@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.23)  24 DEC 2016 03:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.12.23)  24 DEC 2016 05:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -772,43 +772,55 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 186.
+LaTeX Font Info:    Try loading font information for U+msa on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 186.
+LaTeX Font Info:    Try loading font information for U+msb on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 186.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (10.71048pt too wide) in paragraph at lines 186--186
- []\eaddfnt lleipuner@researchlabs.org| 
- []
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 143.
 
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 186.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 186.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 143.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
-LaTeX Font Info:    Try loading font information for T1+aett on input line 187.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 144.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
+Excluding 'CCSXML' comment.
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 215.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/ae/omsaer.fd
+File: omsaer.fd 1999/12/27
+)
+LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 215.
+
+Underfull \hbox (badness 1360) in paragraph at lines 240--240
+[][]\T1/aer/m/n/9 Two of these, the \T1/aett/m/n/9 \num-bero-fau-thors \T1/aer/
+m/n/9 and \T1/aett/m/n/9 \alig-nau-
+ []
+
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
 )
@@ -818,36 +830,14 @@ File: UTF8.enc 2015/04/18 4.8.4
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
-LaTeX Font Info:    Try loading font information for C70+mj on input line 189.
+LaTeX Font Info:    Try loading font information for C70+mj on input line 252.
 
 (/usr/share/texmf/tex/latex/CJK/UTF8/c70mj.fd
 File: c70mj.fd 2015/04/18 4.8.4
-) Excluding 'CCSXML' comment.
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 261.
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/ae/omsaer.fd
-File: omsaer.fd 1999/12/27
-)
-LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 261.
-
-Underfull \hbox (badness 1360) in paragraph at lines 286--286
-[][]\T1/aer/m/n/9 Two of these, the \T1/aett/m/n/9 \num-bero-fau-thors \T1/aer/
-m/n/9 and \T1/aett/m/n/9 \alig-nau-
- []
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-(/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
-File: UTF8.enc 2015/04/18 4.8.4
-)
-(/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
-File: UTF8.chr 2015/04/18 4.8.4
-)
-(/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+] (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
 File: UTF8.enc 2015/04/18 4.8.4
 )
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
@@ -855,33 +845,33 @@ File: UTF8.chr 2015/04/18 4.8.4
 ) [2]
 
 LaTeX Warning: Citation `bowman:reasoning' on page \thepage  undefined on input
- line 406.
+ line 360.
 
 
-LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 4
-06.
+LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 3
+60.
 
 
 LaTeX Warning: Citation `braams:babel' on page \thepage  undefined on input lin
-e 406.
+e 360.
 
 
 LaTeX Warning: Citation `herlihy:methodology' on page \thepage  undefined on in
-put line 406.
+put line 360.
 
-[3] (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+(/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
 File: UTF8.enc 2015/04/18 4.8.4
 )
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
-)
+) [3]
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
 File: UTF8.enc 2015/04/18 4.8.4
 )
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
-Overfull \hbox (5.22304pt too wide) in paragraph at lines 586--587
+Overfull \hbox (5.22304pt too wide) in paragraph at lines 540--541
 []\C70/mj/m/n/9/ac ^^@ \C70/mj/m/n/9/c7 ¥ \C70/mj/m/n/9/c5 L \C70/mj/m/n/9/b9 Þ
  \C70/mj/m/n/9/c7 @ $\OML/cmm/m/it/9 ^^[[]; l$\C70/mj/m/n/9/c7 t \C70/mj/m/n/9/
 b4 ^^X \C70/mj/m/n/9/ae 0 \C70/mj/m/n/9/c7 ^^D \C70/mj/m/n/9/d5 \ \C70/mj/m/n/9
@@ -894,50 +884,56 @@ File: UTF8.enc 2015/04/18 4.8.4
 )
 (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
+)
+(/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
 ) [4]
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 654.
+ne 615.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 669.
+ne 630.
 
 
 LaTeX Warning: Citation `bowman:reasoning' on page \thepage  undefined on input
- line 696.
+ line 657.
 
 
 LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 6
-96.
+57.
 
 
 LaTeX Warning: Citation `braams:babel' on page \thepage  undefined on input lin
-e 696.
+e 657.
 
 
 LaTeX Warning: Citation `herlihy:methodology' on page \thepage  undefined on in
-put line 696.
+put line 657.
 
 
 LaTeX Warning: Citation `clark:pct' on page \thepage  undefined on input line 6
-97.
+58.
 
 
 LaTeX Warning: Citation `salas:calculus' on page \thepage  undefined on input l
-ine 698.
+ine 659.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 698.
+ne 659.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 704.
+ne 665.
 
 
 LaTeX Warning: Citation `Lamport:LaTeX' on page \thepage  undefined on input li
-ne 715.
+ne 676.
 
 [5]
 Package epstopdf Info: Source file: <fly.eps>
@@ -948,13 +944,13 @@ Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    size: 4243 bytes
 (epstopdf)             Command: <repstopdf --outfile=fly-eps-converted-to.pdf f
 ly.eps>
-(epstopdf)             \includegraphics on input line 792.
+(epstopdf)             \includegraphics on input line 753.
 Package epstopdf Info: Output file is already uptodate.
  <fly-eps-converted-to.pdf, id=87, 34.1275pt x 32.12pt>
 File: fly-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fly-eps-converted-to.pdf>
-Package pdftex.def Info: fly-eps-converted-to.pdf used on input line 792.
+Package pdftex.def Info: fly-eps-converted-to.pdf used on input line 753.
 (pdftex.def)             Requested size: 34.1274pt x 32.1199pt.
 Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    date: 2015-09-14 10:46:22
@@ -964,16 +960,16 @@ Package epstopdf Info: Source file: <fly.eps>
 (epstopdf)                    size: 4243 bytes
 (epstopdf)             Command: <repstopdf --outfile=fly-eps-converted-to.pdf f
 ly.eps>
-(epstopdf)             \includegraphics on input line 798.
+(epstopdf)             \includegraphics on input line 759.
 Package epstopdf Info: Output file is already uptodate.
 File: fly-eps-converted-to.pdf Graphic file (type pdf)
  <use fly-eps-converted-to.pdf>
-Package pdftex.def Info: fly-eps-converted-to.pdf used on input line 798.
+Package pdftex.def Info: fly-eps-converted-to.pdf used on input line 759.
 (pdftex.def)             Requested size: 72.27492pt x 72.27565pt.
 
 
 LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
-(Font)              using `T1/aett/m/n' instead on input line 800.
+(Font)              using `T1/aett/m/n' instead on input line 761.
 
 Package epstopdf Info: Source file: <flies.eps>
 (epstopdf)                    date: 2015-09-14 10:46:18
@@ -983,13 +979,13 @@ Package epstopdf Info: Source file: <flies.eps>
 (epstopdf)                    size: 9687 bytes
 (epstopdf)             Command: <repstopdf --outfile=flies-eps-converted-to.pdf
  flies.eps>
-(epstopdf)             \includegraphics on input line 813.
+(epstopdf)             \includegraphics on input line 774.
 Package epstopdf Info: Output file is already uptodate.
 <flies-eps-converted-to.pdf, id=88, 307.1475pt x 114.4275pt>
 File: flies-eps-converted-to.pdf Graphic file (type pdf)
 
 <use flies-eps-converted-to.pdf>
-Package pdftex.def Info: flies-eps-converted-to.pdf used on input line 813.
+Package pdftex.def Info: flies-eps-converted-to.pdf used on input line 774.
 (pdftex.def)             Requested size: 307.14674pt x 114.42722pt.
 Package epstopdf Info: Source file: <rosette.eps>
 (epstopdf)                    date: 2015-09-14 10:46:28
@@ -999,19 +995,19 @@ Package epstopdf Info: Source file: <rosette.eps>
 (epstopdf)                    size: 2931 bytes
 (epstopdf)             Command: <repstopdf --outfile=rosette-eps-converted-to.p
 df rosette.eps>
-(epstopdf)             \includegraphics on input line 821.
+(epstopdf)             \includegraphics on input line 782.
 Package epstopdf Info: Output file is already uptodate.
 
 <rosette-eps-converted-to.pdf, id=89, 364.59212pt x 364.59212pt>
 File: rosette-eps-converted-to.pdf Graphic file (type pdf)
 
 <use rosette-eps-converted-to.pdf>
-Package pdftex.def Info: rosette-eps-converted-to.pdf used on input line 821.
+Package pdftex.def Info: rosette-eps-converted-to.pdf used on input line 782.
 (pdftex.def)             Requested size: 72.26622pt x 72.26622pt.
 \c@theorem=\count118
 \c@definition=\count119
 
-Overfull \hbox (15.60826pt too wide) detected at line 877
+Overfull \hbox (15.60826pt too wide) detected at line 838
 \OML/cmm/m/it/9 l \OT1/cmr/m/n/9 = [] \OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm
 /m/it/9 x\OT1/cmr/m/n/9 ) = [] [] = [] \OML/cmm/m/it/9 g\OT1/cmr/m/n/9 (\OML/cm
 m/m/it/9 x\OT1/cmr/m/n/9 ) \OMS/cmsy/m/n/9 ^^A [] [] \OT1/cmr/m/n/9 = 0 \OMS/cm
@@ -1020,23 +1016,20 @@ sy/m/n/9 ^^A \OML/cmm/m/it/9 L \OT1/cmr/m/n/9 = 0\OML/cmm/m/it/9 ;
 
 
 LaTeX Warning: Citation `salas:calculus' on page \thepage  undefined on input l
-ine 887.
+ine 848.
 
-[6 <./fly-eps-converted-to.pdf>]
 No file sig-alternate-sample.bbl.
-[7 <./flies-eps-converted-to.pdf> <./rosette-eps-converted-to.pdf>] [8
-
-]
-(./sig-alternate-sample.aux)
+[6 <./fly-eps-converted-to.pdf>] [7 <./flies-eps-converted-to.pdf> <./rosette-e
+ps-converted-to.pdf>] (./sig-alternate-sample.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5898 strings out of 494456
- 72197 string characters out of 6171384
- 171212 words of memory out of 5000000
- 8967 multiletter control sequences out of 15000+600000
+ 5896 strings out of 494456
+ 72167 string characters out of 6171384
+ 167212 words of memory out of 5000000
+ 8965 multiletter control sequences out of 15000+600000
  88363 words of font info for 157 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
  41i,12n,35p,818b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1066,10 +1059,10 @@ e/texmf-dist/fonts/type1/uhc/umj/umj16.pfb></usr/share/texlive/texmf-dist/fonts
 tmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on sig-alternate-sample.pdf (8 pages, 414468 bytes).
+Output written on sig-alternate-sample.pdf (7 pages, 407540 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 197 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
