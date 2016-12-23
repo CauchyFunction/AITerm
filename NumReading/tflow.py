@@ -45,8 +45,6 @@ def learn(img, num):
 
 def think(cycle=1):
 	global W1_r, W2_r, W3_r, W4_r, b1_r, b2_r, b3_r, b4_r;
-	print(img_sz);
-	print(y_data[0]);
 	X = tf.placeholder(tf.float32, shape=[1,img_sz]);
 	Y = tf.placeholder(tf.float32);
 
