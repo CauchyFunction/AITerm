@@ -3,7 +3,7 @@ import numpy as np;
 ## constants
 OptRate = 0.01; # 250, 150, 50, 10
 Layers = 2;
-SZ1 = 150;
+SZ1 = 70;
 SZ2 = 10;
 
 ## datas
